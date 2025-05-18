@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nurul Hasan</h1>
 <h3 align="center">A Passionate Coder and Problem Solver</h3>
-<img
-  align="right"
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1KdHbfGAw1MXxqKJluRN9C&ust=1747640098512000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICZyu7ArI0DFQAAAAAdAAAAABAE"
-  alt="coding"
-  width="400px"
-/>
+
 
 <p align="left">
   <img
